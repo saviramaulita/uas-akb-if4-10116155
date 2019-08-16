@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UAS AKB IF4 1016155</string>
+
+    // TODO: 22/02/18
+    <string name="profil">Profil</string>
+    <string name="kontak">Kontak</string>
+    <string name="teman">Daftar Teman</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="title_activity_intro">IntroActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="log_out">log_out</string>
+</resources>
